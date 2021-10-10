@@ -1,6 +1,6 @@
 
 
-import '../../simplelightbox';
+import _default from 'simplelightbox.js';
 
 // Add imports above this line
 import { galleryItems } from './gallery-items.js';
