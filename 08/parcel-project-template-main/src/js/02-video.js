@@ -1,4 +1,4 @@
-import '../../node_modules/@vimeo/player/dist/player.js';
+import Player from '@vimeo/player';
 import {throttle} from 'lodash/throttle';
 
  const iframe=document.querySelector('iframe');
