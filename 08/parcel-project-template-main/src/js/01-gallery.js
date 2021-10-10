@@ -1,9 +1,11 @@
 
 
-import _default from 'simplelightbox';
+
 
 // Add imports above this line
 import { galleryItems } from './gallery-items.js';
+import _default from '../../node_modules/simplelightbox/dist/simple-lightbox.js';
+import '../../node_modules/simplelightbox/dist/simple-lightbox.min.css'
 // Change code below this line
 
 
