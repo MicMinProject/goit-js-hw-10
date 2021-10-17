@@ -1,4 +1,4 @@
-import flatpickr from 'flatpickr';
+import flatpickr from '../../node_modules/flatpickr/dist/esm/index';
 import 'flatpickr/dist/flatpickr.min.css';
 
 const inputDate=document.querySelector('input');
