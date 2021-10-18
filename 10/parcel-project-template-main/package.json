@@ -29,8 +29,10 @@
     "@vimeo/player": "^2.16.1",
     "flatpickr": "^4.6.9",
     "lodash": "^4.17.21",
+    "lodash.debounce": "^4.0.8",
     "lodash.throttle": "^4.1.1",
     "node": "^16.10.0",
+    "notiflix": "^3.1.0",
     "s": "^1.0.0",
     "simplelightbox": "^2.8.1"
   }
