@@ -71,16 +71,16 @@ function renderCountryInfo(name) {
   info.innerHTML = markup;
 }
 
+//STYLES
+
 input.style.marginLeft = '15px';
 input.style.marginTop = '15px';
 input.style.width = '350px';
 input.style.height = '60px';
-
 list.style.marginLeft = '20px';
 list.style.fontSize = '20px';
 list.style.padding = '0';
 list.style.listStyle = 'none';
-
 info.style.fontSize = '20px';
 info.style.marginTop = '20px';
 info.style.marginLeft = '20px';
