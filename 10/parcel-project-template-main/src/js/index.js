@@ -73,10 +73,10 @@ function renderCountryInfo(name) {
 
 //STYLES
 
-input.style.marginLeft = '15px';
-input.style.marginTop = '15px';
-input.style.width = '350px';
-input.style.height = '60px';
+input.style.marginLeft = '20px';
+input.style.marginTop = '20px';
+input.style.width = '250px';
+input.style.height = '50px';
 list.style.marginLeft = '20px';
 list.style.fontSize = '20px';
 list.style.padding = '0';
