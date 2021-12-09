@@ -28,6 +28,7 @@
   "dependencies": {
     "@vimeo/player": "^2.16.1",
     "css": "^3.0.0",
+    "debounce": "^1.2.1",
     "flatpickr": "^4.6.9",
     "js": "^0.1.0",
     "lodash": "^4.17.21",
@@ -36,6 +37,7 @@
     "node": "^16.10.0",
     "notiflix": "^3.1.0",
     "s": "^1.0.0",
-    "simplelightbox": "^2.8.1"
+    "simplelightbox": "^2.8.1",
+    "throttle-debounce": "^3.0.1"
   }
 }
